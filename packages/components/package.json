@@ -11,12 +11,12 @@
     "test": "yarn run build"
   },
   "peerDependencies": {
-    "react": "~18.3.0"
+    "react": "~19.1.0"
   },
   "dependencies": {
     "@nighttrax/foo": "*"
   },
   "devDependencies": {
-    "@types/react": "~18.2.0"
+    "@types/react": "~19.1.0"
   }
 }
